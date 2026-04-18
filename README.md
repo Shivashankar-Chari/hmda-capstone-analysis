@@ -1,6 +1,19 @@
 # HMDA Capstone Analysis
 
 This project focuses on developing a context-aware and explainable analytical framework for modeling mortgage lending outcomes using HMDA data.
+hmda-capstone-analysis/
+│
+├── README.md
+├── data/
+│ ├── raw/
+│ ├── processed/
+│ └── external/
+├── notebooks/
+├── src/
+├── outputs/
+├── docs/
+├── requirements.txt
+└── .gitignore
 
 ## Objectives
 - Identify key drivers of lending decisions
@@ -21,3 +34,4 @@ https://ffiec.cfpb.gov/data-publication/modified-lar/2024
 
 ## Status
 Initial project setup completed. Analysis in progress.
+
