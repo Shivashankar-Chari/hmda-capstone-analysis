@@ -1,6 +1,7 @@
 # HMDA Capstone Analysis
 
 This project focuses on developing a context-aware and explainable analytical framework for modeling mortgage lending outcomes using HMDA data.
+Note:  notebooks/: includes initial data exploration and understanding notebook (01_data_understanding.ipynb) (ignore formatting, its only data exploration)
 
 ## Objectives
 
