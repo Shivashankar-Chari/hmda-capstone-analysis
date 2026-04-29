@@ -14,6 +14,8 @@ Note:  notebooks/: includes initial data exploration and understanding notebook 
 
 HMDA 2024 Dataset:  
 https://ffiec.cfpb.gov/data-publication/modified-lar/2024
+https://drive.google.com/file/d/1uA3hU9eCAXi-wey4KL1UuO6AmhGw-Iyp/view?usp=sharing
+
 
 ## Project Structure
 
