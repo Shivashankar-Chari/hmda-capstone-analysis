@@ -17,6 +17,17 @@ https://ffiec.cfpb.gov/data-publication/modified-lar/2024
 https://drive.google.com/file/d/1uA3hU9eCAXi-wey4KL1UuO6AmhGw-Iyp/view?usp=sharing
 
 
+| Step Range  | Destination Notebook                |
+| ----------- | ----------------------------------- |
+| Steps 1–8   | `01_data_understanding.ipynb`       |
+| Steps 9–17  | `02_data_preprocessing.ipynb`       |
+| Steps 18–33 | `03_exploratory_analysis.ipynb`     |
+| Steps 34–38 | `04_model_building.ipynb`           |
+| Step 39     | `05_model_evaluation.ipynb`         |
+| Step 40     | `06_explainability_analysis.ipynb`  |
+| Steps 41–43 | Report text, not notebook execution |
+
+
 ## Project Structure
 
 ```text
